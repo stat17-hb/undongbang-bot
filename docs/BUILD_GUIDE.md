@@ -64,9 +64,11 @@ Discord 채널 ──▶ Discord Bot ──▶ Google Sheets
 
 ## 운영
 
-- **Railway**: 24시간 자동 운영 (월 $5 무료 크레딧)
+- **Railway**: 24시간 자동 운영 (Hobby 플랜 $5/월)
 - **주간 집계**: 매주 일요일 00:00 KST 자동 실행
 - **모니터링**: Railway Dashboard → Deploy Logs
+
+> ⚠️ Railway Free 플랜은 월 $1 크레딧만 제공되어 봇 운영에 부족합니다. Hobby 플랜 $5/월 권장.
 
 ---
 
